@@ -112,6 +112,15 @@ submissions/
 - 在本仓库登记后自动获得中文区**抽奖资格**
 - 每个 GitHub ID 只能创建一个目录，项目必须基于 Sui
 
+## CN Raffle / 中文区抽奖
+
+**奖品：Sui Play 游戏机 x1**
+
+参与规则：
+- 提交一个**满足参赛标准**的项目 → 获得 **1 次抽奖机会** + **1 份周边**
+- PR 合并后自动进入抽奖池
+- 抽奖时间另行通知
+
 ---
 
 Built with love by the Sui CN community
